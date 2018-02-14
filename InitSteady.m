@@ -11,6 +11,9 @@ off=0;
 InitTime=2.9;
 GainGyro=90/12000;
 Rad2Deg=180/pi;
+Deg2Rad=pi/180;
 PID_Activator=35;
+HighValFilter=0.99;
+LowValFilter=0.01;
 
 %% 
